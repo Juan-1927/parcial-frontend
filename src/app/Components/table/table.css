@@ -1,0 +1,17 @@
+.contenedor {
+  overflow-x: auto;
+}
+
+.full-width-table {
+  width: 100%;
+}
+
+.estado {
+  margin: 0;
+  padding: 16px;
+  text-align: center;
+}
+
+.estado-error {
+  color: #b3261e;
+}
